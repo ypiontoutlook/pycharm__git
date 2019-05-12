@@ -1,0 +1,15 @@
+# Python:
+*.so
+*.egg
+*.egg-info
+dist
+build
+.idea
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# My configurations:
+db.ini
